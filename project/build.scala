@@ -16,7 +16,7 @@ object Build extends Build {
 		name := "ab-container"
 		).aggregate(remote_project, local_project)
 	
-	lazy val remote_project = Project("main").
+	lazy val remote_project = Project("main", file("project-a")).
 	settings(commonSettings: _*).
 	settings(
 		resolvers += "Nexus Releases" at "http://nexus.seven4n.com/content/repositories/s4n-capacitaciones/sv/",

@@ -19,23 +19,21 @@ name hashing:
 1 items
 0 -> true
 products:
-23 items
+21 items
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> /home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$commonSettings$1.class
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> /home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$commonSettings$2.class
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> /home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$commonSettings$3.class
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> /home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$commonSettings$4.class
-/home/santiago/gitEx/sbt-multi-project/project/build.scala -> /home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$projecta$1.class
-/home/santiago/gitEx/sbt-multi-project/project/build.scala -> /home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$projecta$2.class
-/home/santiago/gitEx/sbt-multi-project/project/build.scala -> /home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$projecta$3.class
-/home/santiago/gitEx/sbt-multi-project/project/build.scala -> /home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$projecta$4.class
-/home/santiago/gitEx/sbt-multi-project/project/build.scala -> /home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$projecta$5.class
-/home/santiago/gitEx/sbt-multi-project/project/build.scala -> /home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$projecta$6.class
-/home/santiago/gitEx/sbt-multi-project/project/build.scala -> /home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$projecta$7.class
-/home/santiago/gitEx/sbt-multi-project/project/build.scala -> /home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$projectb$1.class
-/home/santiago/gitEx/sbt-multi-project/project/build.scala -> /home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$projectb$2.class
-/home/santiago/gitEx/sbt-multi-project/project/build.scala -> /home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$projectb$3.class
-/home/santiago/gitEx/sbt-multi-project/project/build.scala -> /home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$projectb$4.class
-/home/santiago/gitEx/sbt-multi-project/project/build.scala -> /home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$projectb$5.class
+/home/santiago/gitEx/sbt-multi-project/project/build.scala -> /home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$local_project$1.class
+/home/santiago/gitEx/sbt-multi-project/project/build.scala -> /home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$local_project$2.class
+/home/santiago/gitEx/sbt-multi-project/project/build.scala -> /home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$local_project$3.class
+/home/santiago/gitEx/sbt-multi-project/project/build.scala -> /home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$local_project$4.class
+/home/santiago/gitEx/sbt-multi-project/project/build.scala -> /home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$remote_project$1.class
+/home/santiago/gitEx/sbt-multi-project/project/build.scala -> /home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$remote_project$2.class
+/home/santiago/gitEx/sbt-multi-project/project/build.scala -> /home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$remote_project$3.class
+/home/santiago/gitEx/sbt-multi-project/project/build.scala -> /home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$remote_project$4.class
+/home/santiago/gitEx/sbt-multi-project/project/build.scala -> /home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$remote_project$5.class
+/home/santiago/gitEx/sbt-multi-project/project/build.scala -> /home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$remote_project$6.class
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> /home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$root$1.class
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> /home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$root$2.class
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> /home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$root$3.class
@@ -69,25 +67,23 @@ inheritance internal dependencies:
 inheritance external dependencies:
 0 items
 class names:
-23 items
+21 items
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build$
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build$$anonfun$commonSettings$1
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build$$anonfun$commonSettings$2
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build$$anonfun$commonSettings$3
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build$$anonfun$commonSettings$4
-/home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build$$anonfun$projecta$1
-/home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build$$anonfun$projecta$2
-/home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build$$anonfun$projecta$3
-/home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build$$anonfun$projecta$4
-/home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build$$anonfun$projecta$5
-/home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build$$anonfun$projecta$6
-/home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build$$anonfun$projecta$7
-/home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build$$anonfun$projectb$1
-/home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build$$anonfun$projectb$2
-/home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build$$anonfun$projectb$3
-/home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build$$anonfun$projectb$4
-/home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build$$anonfun$projectb$5
+/home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build$$anonfun$local_project$1
+/home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build$$anonfun$local_project$2
+/home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build$$anonfun$local_project$3
+/home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build$$anonfun$local_project$4
+/home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build$$anonfun$remote_project$1
+/home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build$$anonfun$remote_project$2
+/home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build$$anonfun$remote_project$3
+/home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build$$anonfun$remote_project$4
+/home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build$$anonfun$remote_project$5
+/home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build$$anonfun$remote_project$6
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build$$anonfun$root$1
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build$$anonfun$root$2
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> Build$$anonfun$root$3
@@ -115,14 +111,14 @@ used names:
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> commonSettings
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> file
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> libraryDependencies
+/home/santiago/gitEx/sbt-multi-project/project/build.scala -> local_project
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> moduleIDConfigurable
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> name
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> organization
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> package
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> projectToRef
-/home/santiago/gitEx/sbt-multi-project/project/build.scala -> projecta
-/home/santiago/gitEx/sbt-multi-project/project/build.scala -> projectb
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> pure
+/home/santiago/gitEx/sbt-multi-project/project/build.scala -> remote_project
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> resolvers
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> root
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> sbt
@@ -133,33 +129,31 @@ used names:
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> toRepositoryName
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> version
 product stamps:
-23 items
-/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$commonSettings$1.class -> lastModified(1436303551000)
-/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$commonSettings$2.class -> lastModified(1436303551000)
-/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$commonSettings$3.class -> lastModified(1436303551000)
-/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$commonSettings$4.class -> lastModified(1436303551000)
-/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$projecta$1.class -> lastModified(1436303551000)
-/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$projecta$2.class -> lastModified(1436303551000)
-/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$projecta$3.class -> lastModified(1436303551000)
-/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$projecta$4.class -> lastModified(1436303551000)
-/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$projecta$5.class -> lastModified(1436303551000)
-/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$projecta$6.class -> lastModified(1436303551000)
-/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$projecta$7.class -> lastModified(1436303551000)
-/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$projectb$1.class -> lastModified(1436303551000)
-/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$projectb$2.class -> lastModified(1436303551000)
-/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$projectb$3.class -> lastModified(1436303551000)
-/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$projectb$4.class -> lastModified(1436303551000)
-/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$projectb$5.class -> lastModified(1436303551000)
-/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$root$1.class -> lastModified(1436303551000)
-/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$root$2.class -> lastModified(1436303551000)
-/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$root$3.class -> lastModified(1436303551000)
-/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$root$4.class -> lastModified(1436303551000)
-/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$root$5.class -> lastModified(1436303551000)
-/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$.class -> lastModified(1436303551000)
-/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build.class -> lastModified(1436303551000)
+21 items
+/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$commonSettings$1.class -> lastModified(1436304371000)
+/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$commonSettings$2.class -> lastModified(1436304371000)
+/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$commonSettings$3.class -> lastModified(1436304371000)
+/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$commonSettings$4.class -> lastModified(1436304371000)
+/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$local_project$1.class -> lastModified(1436304371000)
+/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$local_project$2.class -> lastModified(1436304371000)
+/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$local_project$3.class -> lastModified(1436304371000)
+/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$local_project$4.class -> lastModified(1436304371000)
+/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$remote_project$1.class -> lastModified(1436304371000)
+/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$remote_project$2.class -> lastModified(1436304371000)
+/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$remote_project$3.class -> lastModified(1436304371000)
+/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$remote_project$4.class -> lastModified(1436304371000)
+/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$remote_project$5.class -> lastModified(1436304371000)
+/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$remote_project$6.class -> lastModified(1436304371000)
+/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$root$1.class -> lastModified(1436304371000)
+/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$root$2.class -> lastModified(1436304371000)
+/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$root$3.class -> lastModified(1436304371000)
+/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$root$4.class -> lastModified(1436304371000)
+/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$root$5.class -> lastModified(1436304371000)
+/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build$.class -> lastModified(1436304371000)
+/home/santiago/gitEx/sbt-multi-project/project/target/scala-2.10/sbt-0.13/classes/Build.class -> lastModified(1436304371000)
 source stamps:
 1 items
-/home/santiago/gitEx/sbt-multi-project/project/build.scala -> hash(b28c9e61deb4fbce87a55f854d6afa0d73675a47)
+/home/santiago/gitEx/sbt-multi-project/project/build.scala -> hash(52d0902fe0d43a7b2b1012e44c6d3ce9361fd239)
 binary stamps:
 7 items
 /home/santiago/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.8.jar -> lastModified(1430156456000)
@@ -181,7 +175,7 @@ class names:
 internal apis:
 1 items
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA8bLdhAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFF9t5V0AAZub3RpZnlzcQB+AAwCLchIdAAEd2FpdHNxAH4ADAdVsdl0AAhwcm9qZWN0YXNxAH4ADM9w1/p0AA0kYXNJbnN0YW5jZU9mc3EAfgAMUG3VenQADGJ1aWxkTG9hZGVyc3NxAH4ADHae1Bx0AARyb290c3EAfgAMCjrfNnQABUJ1aWxkc3EAfgAMbuzLDXQABmVxdWFsc3NxAH4ADMYQ9+N0AAxhc0luc3RhbmNlT2ZzcQB+AAzXpniidAAScHJvamVjdERlZmluaXRpb25zc3EAfgAMrFyJa3QADHN5bmNocm9uaXplZHNxAH4ADBRqKVh0AA5jb21tb25TZXR0aW5nc3NxAH4ADAgnRWl0AA0kaXNJbnN0YW5jZU9mc3EAfgAMMGGQD3QACW5vdGlmeUFsbHNxAH4ADI0xqjZ0AAtyb290UHJvamVjdHNxAH4ADCNS2fx0AAxpc0luc3RhbmNlT2ZzcQB+AAwsj2MGdAACPT1zcQB+AAxjFl6zdAAFY2xvbmVzcQB+AAxmifuCdAAIdG9TdHJpbmdzcQB+AAy5Pc0QdAAIcHJvamVjdGJzcQB+AAx8dF5KdAACIT1zcQB+AAyL0ehQdAAIcHJvamVjdHNzcQB+AAxlWA5rdAAIZ2V0Q2xhc3NzcQB+AAyiiSqSdAACbmVzcQB+AAzkI+OedAACZXFzcQB+AAzv7f+bdAAIc2V0dGluZ3NzcQB+AAyfPjkQdAACIyNzcQB+AAy5kfGudAAIZmluYWxpemVzcQB+AAydk2WVdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBReHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ABt1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AGgBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFFMAAlpbmhlcml0ZWRxAH4AUUwAB3BhcmVudHNxAH4AUXhxAH4Ab3NxAH4AaAF1cQB+AEwAAAAAcHNxAH4AaAF1cQB+AEwAAAAAcHNxAH4AaAF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AG50AAVCdWlsZHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AbnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAADc2J0c3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIhzcQB+AHt0AAZPYmplY3RzcQB+AH9zcQB+AIJ1cQB+AIUAAAADc3EAfgCHdAAEamF2YXNxAH4Ah3QABGxhbmdxAH4AjHNxAH4Ae3QAA0FueXNxAH4Af3NxAH4AgnVxAH4AhQAAAAJzcQB+AId0AAVzY2FsYXEAfgCMcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmpc4YB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABRL2hvbWUvc2FudGlhZ28vZ2l0RXgvc2J0LW11bHRpLXByb2plY3QvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUsoyeYd60+86HpV+FTWr6DXNnWkc=
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBM4eIUAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFF9t5V0AAZub3RpZnlzcQB+AAwCLchIdAAEd2FpdHNxAH4ADM9w1/p0AA0kYXNJbnN0YW5jZU9mc3EAfgAME4s9WnQADnJlbW90ZV9wcm9qZWN0c3EAfgAMUG3VenQADGJ1aWxkTG9hZGVyc3NxAH4ADHae1Bx0AARyb290c3EAfgAMCjrfNnQABUJ1aWxkc3EAfgAMbuzLDXQABmVxdWFsc3NxAH4ADMYQ9+N0AAxhc0luc3RhbmNlT2ZzcQB+AAzXpniidAAScHJvamVjdERlZmluaXRpb25zc3EAfgAMrFyJa3QADHN5bmNocm9uaXplZHNxAH4ADBRqKVh0AA5jb21tb25TZXR0aW5nc3NxAH4ADAgnRWl0AA0kaXNJbnN0YW5jZU9mc3EAfgAMMGGQD3QACW5vdGlmeUFsbHNxAH4ADI0xqjZ0AAtyb290UHJvamVjdHNxAH4ADCNS2fx0AAxpc0luc3RhbmNlT2ZzcQB+AAwsj2MGdAACPT1zcQB+AAxjFl6zdAAFY2xvbmVzcQB+AAxmifuCdAAIdG9TdHJpbmdzcQB+AAx8dF5KdAACIT1zcQB+AAyL0ehQdAAIcHJvamVjdHNzcQB+AAxlWA5rdAAIZ2V0Q2xhc3NzcQB+AAyiiSqSdAACbmVzcQB+AAzkI+OedAACZXFzcQB+AAwCC7ardAANbG9jYWxfcHJvamVjdHNxAH4ADO/t/5t0AAhzZXR0aW5nc3NxAH4ADJ8+ORB0AAIjI3NxAH4ADLmR8a50AAhmaW5hbGl6ZXNxAH4ADJ2TZZV0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AG3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGl4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGgAcHNxAH4AbXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBRTAAJaW5oZXJpdGVkcQB+AFFMAAdwYXJlbnRzcQB+AFF4cQB+AHFzcQB+AGgAcHNxAH4AbXVxAH4ATAAAAABzcQB+AGgAcHNxAH4AbXVxAH4ATAAAAABzcQB+AGgAcHNxAH4AbXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AcHQABUJ1aWxkc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBwc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AANzYnRzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AjnNxAH4AgXQABk9iamVjdHNxAH4AhXNxAH4AiHVxAH4AiwAAAANzcQB+AI10AARqYXZhc3EAfgCNdAAEbGFuZ3EAfgCSc3EAfgCBdAADQW55c3EAfgCFc3EAfgCIdXEAfgCLAAAAAnNxAH4AjXQABXNjYWxhcQB+AJJ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmppYw11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABRL2hvbWUvc2FudGlhZ28vZ2l0RXgvc2J0LW11bHRpLXByb2plY3QvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUUtCQL+DUOnsrEBLkTG086TYf0jk=
 external apis:
 0 items
 source infos:
@@ -189,7 +183,8 @@ source infos:
 /home/santiago/gitEx/sbt-multi-project/project/build.scala -> 
 AAAAAAAAAAA=
 compilations:
-3 items
+4 items
 0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmpXtwR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9ob21lL3NhbnRpYWdvL2dpdEV4L3NidC1tdWx0aS1wcm9qZWN0L3Byb2plY3QvdGFyZ2V0L3NjYWxhLTIuMTAvc2J0LTAuMTMvY2xhc3Nlc3QAAS8=
 1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmpbVJF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9ob21lL3NhbnRpYWdvL2dpdEV4L3NidC1tdWx0aS1wcm9qZWN0L3Byb2plY3QvdGFyZ2V0L3NjYWxhLTIuMTAvc2J0LTAuMTMvY2xhc3Nlc3QAAS8=
 2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmpc4YB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9ob21lL3NhbnRpYWdvL2dpdEV4L3NidC1tdWx0aS1wcm9qZWN0L3Byb2plY3QvdGFyZ2V0L3NjYWxhLTIuMTAvc2J0LTAuMTMvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmppYw11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9ob21lL3NhbnRpYWdvL2dpdEV4L3NidC1tdWx0aS1wcm9qZWN0L3Byb2plY3QvdGFyZ2V0L3NjYWxhLTIuMTAvc2J0LTAuMTMvY2xhc3Nlc3QAAS8=
